@@ -15,7 +15,7 @@ Perfect for quick alerts, notifications, or personal reminders.
 > **⚠️ Licensing Notice:**  
 > This project is **NOT open-source**. All rights reserved.  
 > Personal use is free, but **commercial use requires a paid license**.  
-> Contact: **ashokabhatfsd@gmail.com** | **+91 9482269540**
+> Contact: **ashokabhatfsd@gmail.com** 
 
 ---
 
