@@ -64,10 +64,10 @@ Message Sent At: 14:35:21.123456
 STATUS :  200
 RESPONSE :  {'ok': True, 'result': {...}}
 HTTP total round trip time :  0.234 seconds
-📸 Screenshots
 Sending a Message	Telegram Result
 
-(Create a docs folder in your repo and place screenshots for better GitHub display)
+NOTE!! 
+If you want the full volume surge project ping in  mail, i cannot upload it here since it's too CONFIDENTIAL.
 
 📜 License
 This project is licensed under a Custom Commercial License – see the LICENSE file for details.
