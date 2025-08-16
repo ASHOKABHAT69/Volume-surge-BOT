@@ -7,9 +7,7 @@
 ██║ ███████╗███████╗██║ ██║╚██████╔╝██║ ██║
 ╚═╝ ╚══════╝╚══════╝╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═╝
 
-markdown
-Copy
-Edit
+
 
 A Python script to send messages to a Telegram chat using the **Telegram Bot API**.  
 Perfect for quick alerts, notifications, or personal reminders.
