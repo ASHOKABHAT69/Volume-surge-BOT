@@ -1,4 +1,4 @@
-# 📩 Telegram Bot Alert Message Sender
+# 📩 Live stock market Volume Surge Telegram Bot Alert Message Sender and moere...
 
 ████████╗███████╗██╗ █████╗ ██████╗ ██████╗
 ╚══██╔══╝██╔════╝██║ ██╔══██╗██╔═══██╗██╔══██╗
@@ -8,7 +8,7 @@
    ╚═╝   ╚══════╝╚══════╝╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═╝
 
 A Python script to send messages to a Telegram chat using the **Telegram Bot API**.  
-Perfect for quick alerts, notifications, or personal reminders.
+Analyzes Live stock market data from NSE/BSE srever and checks for surge and instantly shoots up alerts, notifications, or personal reminders.
 
 > **⚠️ Licensing & Confidentiality Notice:**  
 > This project is **NOT open-source** and is of significant valuation.  
